@@ -1,6 +1,7 @@
 module.exports = {
   title: "Echo",
   description: "my Blog",
+  base: "myGit",
   //   theme: "@vuepress/blog",
   themeConfig: {
     sidebar: [
